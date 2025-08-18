@@ -1,9 +1,11 @@
 # Salifort-Motors-Turnover-Prediction-Project
 
 💡 Project Background:
+
 A data driven analysis of Employee Turnover behaviors at a fictional french based company.  Attached is two executive summaries along with the full Jupyter Notebook file that contains the full EDA, Machine Learning Model rounds and results, and the suggested solutions to resolve employee turnover.
 
 📊 Data:
+
 The dataset in this scenario contains 15,000 rows and 10 columns for the variables listed below.
 
 | Variable | Description |
@@ -20,6 +22,7 @@ The dataset in this scenario contains 15,000 rows and 10 columns for the variabl
 | salary | The employee's salary (U.S. dollars) |
 
 📞 Contact:
+
 Have questions or want to connect? Feel free to reach out!
 
 LinkedIn: linkedin.com/in/markbingwychock
