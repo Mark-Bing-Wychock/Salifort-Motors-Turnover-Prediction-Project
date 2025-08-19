@@ -14,8 +14,8 @@ If you can predict employees likely to quit, it might be possible to identify fa
 
 ## 📊 Data:
 
-The original data can be downloaded on this repository:
-* [HR_comma_sep]()
+The dataset can be downloaded from this repository:
+* [**👉 HR_comma_sep 👈**](https://github.com/Mark-Bing-Wychock/Salifort-Motors-Turnover-Prediction-Project/blob/main/HR_comma_sep.csv)
 
 ### **<ins>Data Schema:</ins>**
 The dataset in this scenario contains 15,000 rows and 10 columns for the variables listed below.
@@ -32,6 +32,14 @@ The dataset in this scenario contains 15,000 rows and 10 columns for the variabl
 | promotion_last_5years | Whether or not the employee was promoted in the last 5 years |
 | Department | The employee's department |
 | salary | The employee's salary (U.S. dollars) |
+
+## 🚀 **Future Plans:**
+
+**<ins>In Progress:</ins>**
+* (10% Completion) Make a separate shorter report that shares the most important insights and shows snapshots of the data analysis process.
+
+**<ins>Planned:</ins>**
+* Explore Machine Learning Operations (MLOps) principles to establish a pipeline for continuous model evaluation and improvement. The goal is to integrate new data sources to regularly check the performance of our current models and develop new iterations to maintain predictive accuracy over time.
 
 ## 📞 Contact:
 
