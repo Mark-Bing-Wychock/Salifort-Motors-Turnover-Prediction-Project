@@ -45,5 +45,5 @@ The dataset in this scenario contains 15,000 rows and 10 columns for the variabl
 
 Have questions or want to connect? Feel free to reach out!
 
-* LinkedIn: linkedin.com/in/markbingwychock
+* LinkedIn: [linkedin.com/in/markbingwychock](https://www.linkedin.com/in/markbingwychock/) 
 * Email: mark.bing.wychock@gmail.com
