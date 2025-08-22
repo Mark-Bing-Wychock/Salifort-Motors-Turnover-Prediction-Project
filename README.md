@@ -2,7 +2,7 @@
 
 ## 💡 Project Summary:
 
-A data-driven analysis of employee turnover at a fictional French company, leveraging machine learning models (Random Forest, XGBoost, Tuned Decision Tree, Naive Bayes, and Logistic Regression) to uncover key behaviors and predict churn. This project, completed in Python, includes two competing executive summaries and a full Jupyter Notebook detailing the complete Exploratory Data Analysis (EDA), five rounds of machine learning model development with results, and suggested solutions to resolve employee turnover.
+A data-driven analysis of employee turnover at a fictional French company, leveraging machine learning models (Random Forest, XGBoost, Tuned Decision Tree, Naive Bayes, and Logistic Regression) to uncover key insights and predict employee turnover. This project, completed in Python, includes two competing executive summaries and a full Jupyter Notebook detailing the complete Exploratory Data Analysis (EDA), five rounds of machine learning model development with results, and suggested solutions to resolve employee turnover.
 
 ## 📰 The Business Scenario and Problem:
 
