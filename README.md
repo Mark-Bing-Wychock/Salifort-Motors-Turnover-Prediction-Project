@@ -40,6 +40,7 @@ The dataset in this scenario contains 15,000 rows and 10 columns for the variabl
 
 ### **<ins>Planned:</ins>**
 * Explore Machine Learning Operations (MLOps) principles to establish a pipeline for continuous model evaluation and improvement. The goal is to integrate new data sources to regularly check the performance of our current models and develop new iterations to maintain predictive accuracy over time.
+* Add cloud based links to directly access files on the README.md page.
 
 ## 📞 Contact:
 
